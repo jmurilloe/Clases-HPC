@@ -27,7 +27,7 @@ void compute_pdf(int seed, int nsamples, double mu, double sigma, double xmin, d
     // xmin 1 xmax 10 n bins 9   delta 10-1/9 = 1 > xmin += vector con 9 entradas
     // vector (1-2,2-3,3-4,4-5,5-6,6-7,7-8,8-9,9-10)
     //          1   2   3   4   5               9
-  double delta = 1.0*(xmax-xmin)/nbins;
+  double delta = 1.0*(xmax-xmin)/nbins, n_valid_samples = 0;
   //std::cout << delta << "delta" << "\n ";
   std::vector<double> histo (nbins,0);
   
@@ -35,6 +35,11 @@ void compute_pdf(int seed, int nsamples, double mu, double sigma, double xmin, d
     double r = dis(gen);
     // TODO: fill here the counting histogram stuff
     int index = 0;
+    if ((xmin< r) && (r < xmax)){
+      n_valid_samples += 1;
+    } 
+
+
     for (double ii = xmin;ii<xmax;ii+= delta){
       if ( (ii< r) && (r < ii+delta)){
         histo[index] += 1; 
@@ -47,11 +52,15 @@ void compute_pdf(int seed, int nsamples, double mu, double sigma, double xmin, d
   }
   double valuetoplot = (2*xmin+delta)/2.0;
   for (auto x : histo){ //normalize
-    x = x/nsamples;
+    x = x/n_valid_samples;
     
     std::cout << valuetoplot  << "\t " << x << "\n";
     valuetoplot += delta;
   } 
+  // La normalización no es correcta, ya que la integral sobre el rango no es 1, esto porque el cálculo correcto debe tener información del ancho del bin, en tu caso "x = x / (N_in * delta * 1.0)". Finalmente, en términos de figura, no hay figura.
+  //\ ¿POR QUEEEE?  
+  
+  
   // TODO: compute and print the pdf
 
 }

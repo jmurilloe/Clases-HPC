@@ -11,5 +11,11 @@ all: main_factorial.x
 test: test_factorial.x
 	./$< 
 
+codecoverage: factorial.cpp
+	gcov factorial.cpp test_factorial.cpp
+	lcov --capture --directory . --output-file coverage.info
+	genhtml coverage.info --output-directory coverage
+	firefox coverage/index.html 
+
 clean:
-	rm -f *.o *.x a.out	
+	rm -f *.o *.x a.out	*.gcov *.gcda *.info

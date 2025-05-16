@@ -8,7 +8,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ~/2025-I-IntroSciCompHPC/2025-05-14-Clase11/catch2_example
+        working-directory: 2025-05-14-Clase11/catch2_example
 
     steps:
     - name: Checkout code

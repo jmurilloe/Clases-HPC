@@ -1,0 +1,2541 @@
+a.out   28173 767883.780456:          1 cycles:Pu: 
+	    7f785ba5a000 _start+0x0 (/lib64/ld-2.40.so)
+
+a.out   28173 767883.780461:          1 cycles:Pu: 
+	    7f785ba5a000 _start+0x0 (/lib64/ld-2.40.so)
+
+a.out   28173 767883.780463:        344 cycles:Pu: 
+	    7f785ba5a000 _start+0x0 (/lib64/ld-2.40.so)
+
+a.out   28173 767883.780465:     248214 cycles:Pu: 
+	ffffffff86400b90 [unknown] ([unknown])
+
+a.out   28173 767883.780624:   90068539 cycles:Pu: 
+	          40114c main+0x26 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.803334:   80210746 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.823348:   43453981 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.833753:   42486883 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.843945:   42185185 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.853565:   43728586 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.863571:   44037194 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.873612:   44232040 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.883711:   44253609 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.893839:   44117260 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.903935:   44149368 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.914048:   44137911 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.924112:   44258001 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.934243:   44070254 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.944292:   44240360 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.954416:   44213946 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.964531:   44189679 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.974607:   44271306 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.984720:   44211594 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767883.994801:   44277081 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.004968:   44219213 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.015050:   44214653 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.025138:   44259418 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.035230:   44289149 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.045344:   44251966 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.055435:   44287665 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.065586:   44143260 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.075651:   44260020 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.085779:   44242387 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.095903:   44132671 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.106038:   43960557 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.116068:   44180001 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.126179:   44088439 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.136232:   44245236 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.146350:   44222633 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.156566:   43856128 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.166575:   44159289 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.176687:   44114467 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.186790:   44183779 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.196877:   44215937 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.206989:   44109629 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.217071:   44160989 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.227168:   44131238 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.237230:   44257181 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.247358:   44086033 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.257410:   44244460 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.267499:   44289168 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.277634:   44097014 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.287724:   44149276 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.297827:   44125985 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.307926:   44074179 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.318013:   44097817 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.328139:   43943650 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.338189:   44036982 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.348292:   43966783 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.358346:   44103023 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.368402:   44249684 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.378530:   44227292 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.388651:   44220439 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.398771:   44277885 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.408905:   44074557 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.418954:   44242305 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.429042:   44286317 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.439205:   44101049 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.449299:   44140092 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.459394:   44200640 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.469499:   44195106 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.479612:   44169587 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.489705:   44212037 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.499849:   44112272 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.509907:   44250470 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.520035:   44181317 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.530109:   44270164 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.540203:   44293104 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.550302:   44298772 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.560440:   44181944 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.570532:   44204522 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.580611:   44276338 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.590706:   44294753 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.600849:   44060599 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.610929:   44074786 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.620979:   44242289 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.631099:   44165303 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.641185:   44235105 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.651279:   44268768 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.661424:   44048414 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.671467:   44235164 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.681590:   44165359 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.691671:   44212248 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.701751:   44278645 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.711853:   44294691 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.721953:   44290928 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.732062:   44272816 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.742156:   44294211 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.752322:   44108290 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.762452:   44118857 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.772546:   44156317 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.782614:   44261858 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.792726:   44227508 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.802845:   44196001 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.812922:   44274217 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.823075:   44114746 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.833133:   44252974 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.843223:   44288993 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.853339:   44223532 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.863488:   44130290 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.873565:   44192309 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.883674:   44201467 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.893824:   44037640 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.903865:   44231534 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.913986:   44223909 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.924102:   44188465 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.934199:   44189640 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.944294:   44177839 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.954367:   44269230 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.964497:   44228849 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.974581:   44282344 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.984697:   44215358 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767884.994813:   44116280 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.004912:   44109544 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.014990:   44181702 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.025219:   43980643 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.035860:   42304898 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.046060:   41973785 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.056168:   42022176 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.066302:   41860935 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.076405:   41779967 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.086428:   42061379 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.096627:   41785977 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.106667:   41922602 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.116865:   41713417 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.127002:   41502207 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.137020:   41696758 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.147124:   41590674 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.157098:   41983617 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.167214:   41973407 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.177393:   41725407 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.187396:   42001323 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.197598:   41815262 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.207761:   41377766 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.217856:   41458716 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.228334:   40223617 cycles:Pu: 
+	          401182 func1+0x23 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.238492:   40097465 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.248619:   39976564 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.258690:   40037293 cycles:Pu: 
+	          40117a func1+0x1b (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.268428:   41250351 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.278528:   41043247 cycles:Pu: 
+	          40117e func1+0x1f (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.288918:   40260839 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.299113:   39962661 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.309146:   40165492 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.318897:   41341413 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.328936:   41394425 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.338890:   41874359 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.349054:   41695227 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.359052:   42054088 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.369213:   41983679 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.379306:   41960389 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.389371:   42122592 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.399501:   42085439 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.409593:   42014601 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.419483:   42531291 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.429709:   42105035 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.439774:   42218660 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.449936:   42080633 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.460023:   42087631 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.470090:   42191408 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.480257:   41970013 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.490294:   42165527 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.500458:   42062656 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.510607:   41798865 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.520633:   42049025 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.530800:   41764453 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.540784:   42125575 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.550936:   42033748 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.561107:   41710921 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.571080:   42091263 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.581286:   41664747 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.591247:   42097669 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.601347:   42146697 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.611542:   41703266 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.621561:   41964723 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.631651:   42020489 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.641707:   42181576 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.651946:   41871809 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.662001:   42007641 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.672055:   42148200 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.682294:   41706981 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.692301:   42001649 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.702369:   42098264 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.712533:   41853113 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.722608:   41992683 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.732702:   42031223 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.742766:   42161686 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.752875:   42149551 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.763368:   40834088 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.773181:   41755039 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.783202:   42025141 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.793307:   42099951 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.803427:   42077126 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.813524:   42106345 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.823606:   42169774 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.833811:   41936413 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.843915:   41842269 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.853945:   42065790 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.864096:   41908009 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.874158:   42045739 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.884254:   42099066 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.894348:   42091112 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.904420:   42194675 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.914464:   42455448 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.924173:   43617439 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.934193:   43920241 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.944263:   44033092 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.954352:   44047623 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.964438:   44121210 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.974503:   44251496 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.984611:   44248339 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767885.994702:   44276634 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.004798:   44293934 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.014900:   44292278 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.025002:   44299931 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.035124:   44249046 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.045216:   44277299 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.055311:   44295056 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.065439:   44165074 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.075518:   44263458 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.085615:   44269470 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.095717:   44260703 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.105891:   44007103 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.115925:   44218730 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.126055:   44125435 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.136124:   44239703 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.146289:   44000862 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.156370:   44057679 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.166508:   43896851 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.177234:   41947932 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.187622:   41218085 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.197547:   42006161 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.207156:   43389239 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.217482:   42637175 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.227607:   42694337 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.237375:   43797814 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.247620:   43119942 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.257925:   42492439 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.268097:   42287731 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.278219:   42211927 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.288307:   42251484 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.298485:   42053280 cycles:Pu: 
+	          4011db new_func1+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401188 func1+0x29 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401152 main+0x2c (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.308562:   42103566 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.318676:   42122871 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.328818:   41935232 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.338838:   42184488 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.348946:   42167152 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.359045:   42231538 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.369190:   42105373 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.379274:   42129589 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.389349:   42229669 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.399505:   42105863 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.409589:   42165141 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.419677:   42198506 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.429824:   42010442 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.439866:   42196234 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.449981:   42167512 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.460118:   42136084 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.470211:   42129783 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.480325:   42073512 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.490388:   42204784 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.500573:   41971517 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.510633:   42066477 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.520703:   42175684 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.530879:   41940165 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.540913:   42146322 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.551032:   42127807 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.561064:   42318928 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.570737:   43697446 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.580711:   44114471 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.590770:   44249797 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.600863:   44283403 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.610962:   44284742 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.621059:   44297084 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.631167:   44268552 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.641261:   44293642 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.651364:   44295413 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.661466:   44289644 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.671715:   43785304 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.681795:   43855945 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.691833:   44076887 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.701883:   44238326 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.711972:   44274460 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.722067:   44294146 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.732174:   44271650 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.742271:   44293416 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.752372:   44296629 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.762481:   44265695 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.772854:   43425751 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.782756:   44069523 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.792804:   44241354 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.802892:   44284493 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.812989:   44297335 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.823089:   44301203 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.833193:   44292405 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.843294:   44292224 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.853394:   44300340 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.863494:   44302033 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.873642:   44127186 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.883759:   44002592 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.893861:   44003721 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.903964:   44054797 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.914138:   43818913 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.924184:   43941180 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.934329:   43776886 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.944379:   43989909 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.954507:   43888937 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.964591:   43897949 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.974651:   44054486 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.984791:   44041948 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767886.994888:   44073453 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.004951:   44199286 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.015029:   44273254 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.025134:   44254605 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.035245:   44240819 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.045333:   44287960 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.055431:   44297852 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.065575:   44207177 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.075656:   44270627 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.085750:   44293339 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.095849:   44300392 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.105950:   44301607 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.116051:   44301639 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.126152:   44301878 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.136253:   44302129 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.146355:   44302627 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.156457:   44302531 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.166575:   44264202 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.176668:   44292054 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.186767:   44298552 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.196867:   44301562 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.206968:   44302430 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.217070:   44301361 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.227237:   44062264 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.237283:   44239254 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.247455:   44005653 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.257717:   43402325 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.268119:   42446715 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.278297:   42209342 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.288423:   42185749 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+
+a.out   28173 767887.298701:   41480010 cycles:Pu: 
+	          4011b1 func2+0x25 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	          401157 main+0x31 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+	    7f785b629d56 __libc_start_call_main+0x66 (/lib64/libc-2.40.so)
+	    7f785b629e14 __libc_start_main@@GLIBC_2.34+0x84 (/lib64/libc-2.40.so)
+	          401060 _start+0x20 (/home/jmurilloe/2025-I-IntroSciCompHPC/2025-05-30-Clase16/a.out)
+

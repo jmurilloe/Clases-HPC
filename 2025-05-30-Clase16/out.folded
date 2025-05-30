@@ -1,0 +1,6 @@
+a.out;[unknown] 248214
+a.out;_start 346
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main 90068539
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;func1 6414584377
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;func1;new_func1 4295246092
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;func2 4310778704

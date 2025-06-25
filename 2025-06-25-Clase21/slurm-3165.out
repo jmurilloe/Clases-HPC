@@ -1,0 +1,122 @@
+Slackware 15.0+
+Linux 6.11.8
+En este momento se encuentran activos los siguientes cientes:
+---------------
+192.168.10.[2-6,12,21-25] (11)
+---------------
+nproc=16
+---------------
+192.168.10.[7-10,26-29] (8)
+---------------
+nproc=12
+---------------
+192.168.10.[16-20] (5)
+---------------
+nproc=4
+---------------
+192.168.10.[13-15] (3)
+---------------
+nproc=6
+
+Por favor no ejecutar tareas en el servidor principal
+
+Loading local-system spack ...
+Activating environment
+spack ready.
+Slackware 15.0+
+Linux 6.11.8
+En este momento se encuentran activos los siguientes cientes:
+---------------
+192.168.10.[2-6,12,21-25] (11)
+---------------
+nproc=16
+---------------
+192.168.10.[7-10,26-29] (8)
+---------------
+nproc=12
+---------------
+192.168.10.[16-20] (5)
+---------------
+nproc=4
+---------------
+192.168.10.[13-15] (3)
+---------------
+nproc=6
+
+Por favor no ejecutar tareas en el servidor principal
+
+Loading local-system spack ...
+Activating environment
+spack ready.
+stress: info: [14840] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7935] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10758] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14850] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7929] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10759] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14839] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7930] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10761] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14842] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7934] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10762] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14844] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7936] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10763] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14848] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7925] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10767] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14843] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7926] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10764] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14846] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7927] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10765] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14841] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7928] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10766] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14845] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7931] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10768] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14847] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7933] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10769] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14849] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [7932] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [10760] dispatching hogs: 1 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [14840] successful run completed in 10s
+stress: info: [7927] successful run completed in 10s
+stress: info: [10758] successful run completed in 10s
+stress: info: [14850] successful run completed in 10s
+stress: info: [14839] successful run completed in 10s
+stress: info: [14844] successful run completed in 10s
+stress: info: [14846] successful run completed in 10s
+stress: info: [14843] successful run completed in 10s
+stress: info: [14845] successful run completed in 10s
+stress: info: [14848] successful run completed in 10s
+stress: info: [14847] successful run completed in 10s
+stress: info: [14841] successful run completed in 10s
+stress: info: [14842] successful run completed in 10s
+stress: info: [14849] successful run completed in 10s
+stress: info: [7929] successful run completed in 10s
+stress: info: [7934] successful run completed in 10s
+stress: info: [7936] successful run completed in 10s
+stress: info: [7925] successful run completed in 10s
+stress: info: [7926] successful run completed in 10s
+stress: info: [7928] successful run completed in 10s
+stress: info: [7930] successful run completed in 10s
+stress: info: [7931] successful run completed in 10s
+stress: info: [7932] successful run completed in 10s
+stress: info: [7933] successful run completed in 10s
+stress: info: [7935] successful run completed in 10s
+stress: info: [10759] successful run completed in 10s
+stress: info: [10761] successful run completed in 10s
+stress: info: [10763] successful run completed in 10s
+stress: info: [10767] successful run completed in 10s
+stress: info: [10762] successful run completed in 10s
+stress: info: [10764] successful run completed in 10s
+stress: info: [10766] successful run completed in 10s
+stress: info: [10765] successful run completed in 10s
+stress: info: [10768] successful run completed in 10s
+stress: info: [10760] successful run completed in 10s
+stress: info: [10769] successful run completed in 10s
